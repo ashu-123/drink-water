@@ -31,7 +31,7 @@ h3 {
 .jar {
     background-color: #ffffff;
     border: 4px solid var(--border-color);
-    color: var(--fill-color);
+    color: var(--border-color);
     border-radius: 0 0 40px 40px;
     height: 330px;
     width: 150px;
@@ -79,8 +79,8 @@ h3 {
 }
 
 .remaining span {
+    font-size: 20px;
     font-weight: bold;
-    font-size: 20ox;
 }
 
 .remaining small {
